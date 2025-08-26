@@ -29,3 +29,8 @@ This project features a clean design, category-based filtering, and an organized
    git clone https://github.com/your-username/blog-homepage.git
 2. Open the project folder
 3. Run the blog_page.html file in your browser
+
+---
+
+## Preview
+<img width="957" height="445" alt="image" src="https://github.com/user-attachments/assets/312be9fe-f725-4872-a297-4e27e0855253" />
